@@ -1,0 +1,15 @@
+使用するライブラリ
+opencv
+tensolflow
+tflearn
+h5py
+scipy
+curses
+jupyter notebook
+
+ファイルを全てpython3.5の環境で作成された
+jupyter notebookにコピーすることによって日本の現在使用されているコインの識別ができます。
+　ただし、青色かそれ以外かで2値化を行ったため、青色の紙の上にコインをおいて
+識別する必要があります。
+　また、照明の影響を強く受けます。夜に蛍光灯の元で使用することを推奨します。
+参考にした資料としては、Blue BacksのRaspberryPiではじめる機械学習を参考にしました。

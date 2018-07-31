@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/rec_coin.h5"
+all_model_checkpoint_paths: "/content/rec_coin.h5"
